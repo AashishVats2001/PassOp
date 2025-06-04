@@ -48,7 +48,7 @@ A sleek, minimalistic **Password Manager** built with **React** that stores your
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/passop.git
+   git clone https://github.com/AashishVats2001/passop.git
 
 2. **Change Directory**
       ```bash
@@ -71,15 +71,12 @@ A sleek, minimalistic **Password Manager** built with **React** that stores your
 ## ✍️ Author
 
 **Aashish Vats**
-Front-End Web Developer | React Enthusiast | UI/UX Explorer
+Frontend Developer | Actor-Musician | Tech + Theatre 🎭
 
 - 🌐 Other Work: [Have A Chai](https://have-a-chai.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/aashish-vats-dev](https://www.linkedin.com/in/aashish-vats-dev/)
 - 📧 Email: [aashishvats.dev@gmail.com](mailto:aashishvats.dev@gmail.com)
 - 📁 Resume: [Indeed Profile](https://profile.indeed.com/p/aashishv-x2j8tvk)
-
-Passionate about creating interactive, accessible, and performance-optimized user experiences using modern front-end technologies.
-Always brewing up ideas — one cup of chai at a time ☕
 
 ---
 
